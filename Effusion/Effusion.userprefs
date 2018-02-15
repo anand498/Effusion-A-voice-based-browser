@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{5ACEA081-7790-450C-A843-2B1E56B3F871}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Effusion.cs">
+    <Files>
+      <File FileName="Effusion.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
